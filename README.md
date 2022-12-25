@@ -75,3 +75,4 @@ Create a Card layout based on material design using CSS float property and posit
 
 - Font family list used in creating the card
     - Franklin Gothic Medium, Arial Narrow, Arial, san-serif
+![image](https://user-images.githubusercontent.com/108535012/209479128-cc00be07-4440-4237-b9ee-cc87a881cf9b.png)
